@@ -4,7 +4,7 @@
 ***
 Skills: VUE JS / REACT / JS / HTML / CSS
 *** 
-- 🔭 I’m currently working on enhancement of my own research paper Titled 
+- 🔭 I’m currently working on enhancement of my own [Research Paper](https://www.researchgate.net/publication/357478145_Design_Analysis_and_Implementation_of_Online_Competitive_Examination_Using_Heterogeneous_Consortium_Blockchain)
 - 👯 I’m looking to collaborate on React Js projects. 
 - 📫 How to reach me: anmolsingh15499@gmail.com  
 *** 
